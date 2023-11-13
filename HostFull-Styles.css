@@ -7,7 +7,7 @@
 .inicio{
 	height: 1080px;
 	width: 100%;
-	background-image: url(./img/imagen-descuento.gif);
+	background-image: url(img/imagen-descuento.gif);
 	background-size: cover;
 	background-position: center;
 	background-color: #16161a;
