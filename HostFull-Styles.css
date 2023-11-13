@@ -10,6 +10,7 @@
 	background-image: url(./img/imagen-descuento.gif);
 	background-size: cover;
 	background-position: center;
+	background-color: #16161a;
 }
 nav{
 	display: flex;
